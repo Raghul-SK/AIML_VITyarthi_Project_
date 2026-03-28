@@ -1,15 +1,13 @@
 ## Problem Statement :
-In the ever-changing field of Artificial Intelligence, students and novices face difficulties in finding a central and interactive medium of information that helps them understand basic concepts of AI. Although search engines like Google offer a tremendous amount of information, it is still difficult to have a conversational interface that helps students clear their doubts in real-time.
+In this Dynamic field of Artificial Intelligence, students and professinals face hardships in finding a centralized, optimised and interactive medium of information that helps them in understand basic concepts of AI and explaining it for free. Even though the search engines like Google, Edge provide a vast amount of information, it has always been a problem to create a interactive medium that helps students to understand about AI in a simple and clear way.
 
-Rudhran proposes to bridge this existing gap by developing an AI-powered conversational interface focused on AI and Machine Learning education. The interface will help students avoid the problem of "information overload."
+"Rudhran", an AI Assitant solves this problem by creating a user-friendly interactive environment that helps one to acquire knowledge about Artificial Intelligence and Machine learning domains. This interactive interface will help the students to avoid "information overload" problem by providing a concise answer to the question.
 
 ## Scope of the Project :
-The development of the project will be done in phases, starting from rule-based/statistical model development to the development of a fully autonomous intelligent agent.
-- Phase 1 (Current): Development of a specialized NLP-based chatbot using NLTK and Scikit-Learn libraries. It will incorporate TF-IDF Vectorization and Cosine Similarity to obtain accurate results from the knowledge base, specifically on AI/ML.
-- Phase 2 (Upcoming): The development will be continued to incorporate the use of Deep Learning (Neural Network) for intent recognition.
-- Phase 3 (Future): The development will be continued to make it fully functional, deployment-ready, using tools such as Flask or Streamlit for the development of the GUI, along with the incorporation of APIs to fetch live AI research updates.
+The project's development will be done in 3 main stages, from being a basic command-line running program to full fledged app which anwers user's queries from all doiman, not just Artificial Intelligence.
+- Phase 1 (Current stage): Development of a specialized NLP-based chatbot using NLTK and Scikit-Learn libraries. It will incoporate TF-IDF Vectorization and Cosine Similarity to gather the moste accurate respone to the question from the AI/ML knowledgebase.
+- Phase 2 (Upcoming stage): The development will then improvise by incorporating the use of Deep Learning (Neural Network) for better recognition and more efiiciency.
+- Phase 3 (Future/final stage): The Improvisations will be continued to make this project a fully functional and deplyment ready, using tools such as Streamlit for the development of the GUI/User interface, along with the incorporation of APIs to get all the current AI research updates.
 
-## Targeted Audience
-- Primary: CSE and AI/ML students (specifically at the undergraduate level) who are seeking a reference guide for concepts related to these fields.
-- Secondary: Programming enthusiasts who are transitioning to Data Science and require a simplified explanation of complex algorithms.
-- Developers: Fellow students who are interested in getting a glimpse of how Natural Language Processing is implemented using Python and Scikit-Learn.
+## Targeted Audience :
+CSE and AI/ML students (specifically at the undergraduate level) who are seeking a reference guide for concepts related to AI and ML fields are primary targets. Programming interested students who are transitioning to Data Science and require a simplified explanation of complex algorithms so it will help them and lastly, Fellow students who are interested in getting a short knowledge of how Natural Language Processing is implemented using Python and Scikit-Learn.
