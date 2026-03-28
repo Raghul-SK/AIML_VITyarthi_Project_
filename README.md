@@ -15,6 +15,11 @@ Rather than depending on keyword-based responses, the system uses Term Frequency
 * **Language:** Python
 * **Libraries:** nltk, scikit-learn, numpy, string, random
 
+## Detailed Repository Breakdown :
+- VITyarthi_Project_CHATBOT_AIML.py contains the Program code
+- ChatBot_AIML_VITyarthi_Project_Report.pdf contains the project resport
+- Sample_Output.pdf contains the sample output executions
+
 ## How to Run the Project 
 - **Step 1: Install Python**'
 
@@ -55,4 +60,5 @@ ii. Ask him any question you have in mind about Artificial Intelligence, for exa
 iii. To exit the conversation, just type:
     `bye! or thanks`
 
+  
   
